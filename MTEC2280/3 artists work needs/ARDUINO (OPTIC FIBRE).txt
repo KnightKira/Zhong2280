@@ -1,0 +1,8 @@
+ARDUINO (OPTIC FIBRE)
+RBG Leds
+Arduino
+Bluetooth module
+RBG lamp
+soldering iron
+it pettery and it changes colors
+it a lot simpler then i thought it was 

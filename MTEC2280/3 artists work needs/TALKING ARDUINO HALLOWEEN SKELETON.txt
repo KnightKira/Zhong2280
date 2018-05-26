@@ -1,0 +1,14 @@
+TALKING ARDUINO HALLOWEEN SKELETON
+Arduino Duemilanove
+Ladyada Waveshield Kit
+2 Super Bright Red LED's 
+PIR Sensor Module
+A small servo
+A skull
+A black cloak halloween costume
+various bones
+Speakers
+Wire
+PVC and fittings 
+it glowing red skull and moves.
+it on motion sensor so it be great to suprice people.

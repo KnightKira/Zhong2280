@@ -1,0 +1,14 @@
+ARDUINO TIME-LAPSE CONTROLLER
+- Arduino
+- 7 Segment Display
+- 220 Ohm Resistor x2
+- 10K Ohm Resistor x2
+- 470 Ohm Resistor
+- Hookup wire
+- NPN Transistor
+- 3/32 Phone-jack
+- hookup wire
+- mounting surface (i.e. perfboard, breadboard, PCB)
+i think it cool to see how u can mount this on othere item and make work like one.
+not only that it also have like build in buttoin for how much sec you want to set it to.
+he set it to take one image every minute and 35 sec and puting them togeter make a cool video.
